@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkgenshin_artifacts"]=self["webpackChunkgenshin_artifacts"]||[]).push([[136,755],{87136:function(e,t,c){var s=c(51605),a=c(70054);s({target:"RegExp",proto:!0,forced:/./.exec!==a},{exec:a})}}]);
